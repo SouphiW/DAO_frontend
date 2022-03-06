@@ -55,22 +55,6 @@ const list = [
     name: 'github',
     url: 'https://github.com/The-OpenDAO',
   },
-  // {
-  //   name: 'instagram',
-  //   url: 'https://www.instagram.com/the_opendao/ ',
-  // },
-  // {
-  //   name: 'tiktok',
-  //   url: 'https://www.tiktok.com/@theopendao',
-  // },
-  // {
-  //   name: 'twitch',
-  //   url: 'https://www.twitch.tv/theopendao',
-  // },
-  // {
-  //   name: 'youtube',
-  //   url: 'https://www.youtube.com/channel/UCNQr3meUv9CQRZq0L8050IA',
-  // },
 ]
 </script>
 
