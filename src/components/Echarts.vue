@@ -42,15 +42,7 @@ function drawEcharts(time, data) {
   console.log("test-successful");
   Echart(xData, yData)
 }
-const echartdata = reactive({
-  xData5H: ["20:00", "15:00", "10:00", "05:00", "00:00"],
-  xData1H: ["20:00", "19:00", "18:00", "17:00", "16:00"],
-  xData15M: ["20:00", "19:45", "19:30", "19:15", "19:00"],
 
-  yData5H: ["6.5", "8.9", "5.6", "4.3", "8.9"],
-  yData1H: ["4.6", "3.9", "7.9", "10.1", "12.2"],
-  yData15M: ["9.1", "7.1", "3.4", "4.5", "3.2"],
-})
 const echart = ref(null)
 const Echart = function (xData, yData) {
   const myChart = echarts.init(echart.value);
