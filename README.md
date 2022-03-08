@@ -1,4 +1,4 @@
-# The-OpenDao-Frontend
+# Frontend
 
 ## Features
 
